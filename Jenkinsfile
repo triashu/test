@@ -5,6 +5,7 @@ def gitCommit() {
     return gitCommit
 }
 
+
 node {
     // Checkout source code from Git
     stage 'Checkout'

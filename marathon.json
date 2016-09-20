@@ -11,7 +11,7 @@
           "containerPort": 80,
           "protocol": "tcp",
           "name": "http"
-          "ServicePort": 0
+          "servicePort": 0
         }
       ],
       "network": "BRIDGE"
